@@ -98,7 +98,8 @@ nav ul li a {
   font-size: 30;
 }
 
-/*Card*/
+/*Cards*/
+
 body {
   background: #ecececdb;
 }
@@ -135,25 +136,21 @@ body {
   background: #F7DFF5;
   margin-top: 32px;
   padding: 8px 15px;
-  font-size: 0.75rem;
+  font-size: 12px;
   border-radius: 50px;
   font-weight: 600;
 }
-.card-list .developer {
-  background-color: #F7DFF5; 
-  color: #B22485;
-}   
-.card-list .designer {
-  background-color: #d1e8ff;
-  color: #2968a8;
-}
-.card-list .editor {
-  background-color: #d6f8d6; 
-  color: #205c20;
-}
+
 .card-item h3 {
   color: #000;
-  font-size: 1.438rem;
+  font-size: 23px;
+  margin-top: 28px;
+  font-weight: 600;
+}
+
+.card-item h5 {
+  color: #000;
+  font-size: 14px;
   margin-top: 28px;
   font-weight: 600;
 }
