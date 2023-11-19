@@ -148,10 +148,16 @@ body {
   font-weight: 600;
 }
 
+.card-item h4 {
+  color: #000;
+  font-size: 18px;
+  margin-top: 10px;
+  font-weight: 600;
+}
 .card-item h5 {
   color: #000;
-  font-size: 14px;
-  margin-top: 28px;
+  font-size: 12px;
+  margin-top: 10px;
   font-weight: 600;
 }
 
