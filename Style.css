@@ -38,7 +38,7 @@ nav ul li a {
 .container {
   width: 100%;
   min-height: 100vh;
-  background-image: url(MPImage1.png);
+  background-image: url(Images/7wonders.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -154,6 +154,7 @@ body {
   margin-top: 10px;
   font-weight: 600;
 }
+
 .card-item h5 {
   color: #000;
   font-size: 12px;
