@@ -40,7 +40,6 @@ nav ul li a {
   min-height: 100vh;
   background-image: url(Images/7wonders.jpg);
   background-position: center;
-  opacity: .1;
   background-size: cover;
   background-blend-mode: multiply;
 }
